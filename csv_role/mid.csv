@@ -1,0 +1,115 @@
+Region,Team,Game ID,Win/Lose,Player_3,GD@15_3,XPD@15_3,LVLD@15_3,CSD@15_3
+0,JD Gaming,44340,WIN,Yagao,-418,-1062,-1,-11
+0,Edward Gaming,44341,LOSS,Scout,-115,-757,-1,-6
+0,Royal Never Give Up,44342,WIN,xiaohu,-603,-903,-1,-23
+0,Edward Gaming,44346,WIN,Scout,1751,711,0,14
+0,Top Esports,44347,WIN,Knight,1487,999,0,9
+0,JD Gaming,44348,WIN,Yagao,-23,128,0,-9
+0,Edward Gaming,44351,WIN,Scout,-654,-939,-1,-25
+0,Royal Never Give Up,44353,WIN,xiaohu,-1087,-277,0,-1
+0,Top Esports,44354,LOSS,Knight,15,930,1,28
+0,JD Gaming,44355,WIN,Yagao,-832,-1882,-1,-44
+0,Top Esports,44356,LOSS,Knight,676,-174,0,-5
+0,Royal Never Give Up,44358,WIN,xiaohu,212,-33,0,-1
+0,Edward Gaming,44363,WIN,Scout,853,585,0,18
+0,Edward Gaming,44364,WIN,Scout,71,-580,0,-17
+0,Edward Gaming,44366,LOSS,Scout,-369,-12,0,-3
+0,JD Gaming,44368,WIN,Yagao,943,634,0,-5
+0,JD Gaming,44370,WIN,Yagao,314,-177,0,0
+0,JD Gaming,44372,LOSS,Yagao,-414,-349,-1,-8
+0,Top Esports,44374,LOSS,Knight,1633,1054,1,19
+0,Top Esports,44377,WIN,Knight,142,102,0,21
+0,Top Esports,44378,WIN,Knight,-643,-314,0,-20
+0,Royal Never Give Up,44381,WIN,xiaohu,-146,199,0,-4
+0,Royal Never Give Up,44383,WIN,xiaohu,-353,-713,-1,-25
+0,Royal Never Give Up,44384,LOSS,xiaohu,-197,-159,0,-19
+0,JD Gaming,44385,WIN,Yagao,-648,-763,-1,-17
+0,Royal Never Give Up,44387,LOSS,xiaohu,-1133,-1589,-1,-29
+0,JD Gaming,44388,WIN,Yagao,-342,-511,-1,-16
+0,Royal Never Give Up,44393,LOSS,xiaohu,600,1251,1,27
+0,Edward Gaming,44403,WIN,Scout,-32,476,0,-6
+0,JD Gaming,44408,WIN,Yagao,195,254,0,11
+4,Fnatic,44337,WIN,Humanoid,756,1049,1,39
+4,G2 Esports,44338,LOSS,Caps,-2228,-772,-1,-26
+4,Rogue,44343,WIN,Larssen,627,434,0,-1
+4,G2 Esports,44344,WIN,Caps,434,326,0,-1
+4,Fnatic,44345,WIN,Humanoid,519,-367,0,-10
+4,Rogue,44349,WIN,Larssen,842,282,1,9
+4,Fnatic,44351,LOSS,Humanoid,654,939,1,25
+4,G2 Esports,44355,LOSS,Caps,832,1882,1,44
+4,Rogue,44356,WIN,Larssen,-676,174,0,5
+4,Fnatic,44361,LOSS,Humanoid,-793,60,0,2
+4,Fnatic,44362,LOSS,Humanoid,1040,1533,1,38
+4,Fnatic,44364,LOSS,Humanoid,-71,580,0,17
+4,G2 Esports,44367,LOSS,Caps,-274,211,0,-2
+4,G2 Esports,44369,LOSS,Caps,-416,-522,-1,-8
+4,G2 Esports,44370,LOSS,Caps,-314,177,0,0
+4,Rogue,44373,WIN,Larssen,1568,1337,2,38
+4,Rogue,44375,LOSS,Larssen,-877,-162,0,10
+4,Rogue,44377,LOSS,Larssen,-142,-102,0,-21
+4,Rogue,44386,LOSS,Larssen,-685,232,1,2
+4,Rogue,44388,LOSS,Larssen,342,511,1,16
+1,DWG KIA,44338,WIN,ShowMaker,2228,772,1,26
+1,T1,44341,WIN,Faker,115,757,1,6
+1,Gen.G eSports,44342,LOSS,Chovy,603,903,1,23
+1,DRX,44343,LOSS,Zeka,-627,-434,0,1
+1,T1,44345,LOSS,Faker,-519,367,0,10
+1,DWG KIA,44348,LOSS,ShowMaker,23,-128,0,9
+1,Gen.G eSports,44350,WIN,Chovy,579,613,0,23
+1,T1,44352,WIN,Faker,-443,-1239,-1,-22
+1,DRX,44354,WIN,Zeka,-15,-930,-1,-28
+1,DWG KIA,44357,WIN,ShowMaker,84,794,1,22
+1,Gen.G eSports,44359,WIN,Chovy,440,111,0,5
+1,DRX,44360,WIN,Zeka,749,158,0,4
+1,T1,44362,WIN,Faker,-1040,-1533,-1,-38
+1,T1,44365,WIN,Faker,-767,-597,0,-4
+1,T1,44366,WIN,Faker,369,12,0,3
+1,DWG KIA,44369,WIN,ShowMaker,416,522,1,8
+1,DWG KIA,44371,WIN,ShowMaker,629,393,1,8
+1,DWG KIA,44372,WIN,ShowMaker,414,349,1,8
+1,DRX,44375,WIN,Zeka,877,162,0,-10
+1,DRX,44376,WIN,Zeka,-509,-191,0,-2
+1,DRX,44378,LOSS,Zeka,643,314,0,20
+1,Gen.G eSports,44380,WIN,Chovy,-124,76,0,11
+1,Gen.G eSports,44382,WIN,Chovy,521,307,0,8
+1,Gen.G eSports,44384,WIN,Chovy,197,159,0,19
+1,DWG KIA,44385,LOSS,ShowMaker,648,763,1,17
+1,DRX,44386,WIN,Zeka,685,-232,-1,-2
+1,Gen.G eSports,44387,WIN,Chovy,1133,1589,1,29
+1,T1,44393,WIN,Faker,-600,-1251,-1,-27
+1,Gen.G eSports,44398,WIN,Chovy,-881,-1448,-2,-19
+1,DWG KIA,44398,LOSS,ShowMaker,881,1448,2,19
+1,DRX,44403,LOSS,Zeka,32,-476,0,6
+1,T1,44408,LOSS,Faker,-195,-254,0,-11
+1,Gen.G eSports,44413,WIN,Chovy,261,225,0,8
+1,DRX,44413,LOSS,Zeka,-261,-225,0,-8
+2,Cloud9,44337,LOSS,Jensen,-756,-1049,-1,-39
+2,100 Thieves,44339,LOSS,Abbedagge,-559,-772,-1,-29
+2,Evil Geniuses,44340,LOSS,jojopyun,418,1062,1,11
+2,Evil Geniuses,44344,LOSS,jojopyun,-434,-326,0,1
+2,Cloud9,44346,LOSS,Jensen,-1751,-711,0,-14
+2,100 Thieves,44350,LOSS,Abbedagge,-579,-613,0,-23
+2,Cloud9,44352,LOSS,Jensen,443,1239,1,22
+2,Evil Geniuses,44357,LOSS,jojopyun,-84,-794,-1,-22
+2,100 Thieves,44358,LOSS,Abbedagge,-212,33,0,1
+2,Cloud9,44361,WIN,Jensen,793,-60,0,-2
+2,Cloud9,44363,LOSS,Jensen,-853,-585,0,-18
+2,Cloud9,44365,LOSS,Jensen,767,597,0,4
+2,Evil Geniuses,44367,WIN,jojopyun,274,-211,0,2
+2,Evil Geniuses,44368,LOSS,jojopyun,-943,-634,0,5
+2,Evil Geniuses,44371,LOSS,jojopyun,-629,-393,-1,-8
+2,100 Thieves,44379,WIN,Abbedagge,72,90,0,-2
+2,100 Thieves,44381,LOSS,Abbedagge,146,-199,0,4
+2,100 Thieves,44382,LOSS,Abbedagge,-521,-307,0,-8
+3,CTBC Flying Oyster,44339,WIN,Mission,559,772,1,29
+3,CTBC Flying Oyster,44353,LOSS,Mission,1087,277,0,1
+3,CTBC Flying Oyster,44359,LOSS,Mission,-440,-111,0,-5
+3,CTBC Flying Oyster,44379,LOSS,Mission,-72,-90,0,2
+3,CTBC Flying Oyster,44380,LOSS,Mission,124,-76,0,-11
+3,CTBC Flying Oyster,44383,LOSS,Mission,353,713,1,25
+5,GAM Esports,44347,LOSS,Kati,-1487,-999,0,-9
+5,GAM Esports,44349,LOSS,Kati,-842,-282,-1,-9
+5,GAM Esports,44360,LOSS,Kati,-749,-158,0,-4
+5,GAM Esports,44373,LOSS,Kati,-1568,-1337,-2,-38
+5,GAM Esports,44374,WIN,Kati,-1633,-1054,-1,-19
+5,GAM Esports,44376,LOSS,Kati,509,191,0,2
